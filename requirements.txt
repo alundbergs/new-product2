@@ -1,0 +1,10 @@
+
+
+Pillow==9.3.0
+streamlit==1.14.1
+
+
+
+https://www.google.com/search?q=software%20addon%20product&tbm=isch&hl=lv&tbs=rimg:CVgOvVPHc74gYaNhV3VC85CEsgIMCgIIABAAOgQIABAAwAIA&sa=X&ved=0CBoQuIIBahcKEwiYqpKg6sn9AhUAAAAAHQAAAAAQBg&biw=1277&bih=640
+
+
