@@ -102,7 +102,7 @@ st.subheader("FAQ")
 faq = {
     "Why Online Analytics are important for medium sized Businesses?": "Online Analytics improve a company's decision-making process, providing them with insights gleaned from the collected data. Those insights help Businesses create effective marketing campaigns.",
     "What are Pandas Dataframes?": "Generate Python files with a click of a button. Select the cell range you want to transform, and the add-on creates the Python code to read in the Excel data as a pandas dataframe.",
-    "Why to use Jupyter Notebooks?": "MyTool can convert an Excel cell range into a Jupyter Notebook. Just select the cell range, and the add-on will create a new Jupyter Notebook in the workbook’s directory. Inside the Jupyter Notebook, you will find your ready-to-use dataframe based on your selection.",
+    "Why to use Jupyter Notebooks?": "MyTool can convert an Excel cell range into a Jupyter Notebook. Just select the cell range, and the add-on will create a new Jupyter Notebook in the workbook’s directory. Inside the Jupyter Notebook, you will find your ready-to-use dataframe based on your selection. ",
 }
 for question, answer in faq.items():
     with st.expander(question):
